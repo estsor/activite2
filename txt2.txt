@@ -1,0 +1,3 @@
+Mon second fichier txt sur github
+C'est pas si facile que ça
+La commande touch ne fonctionne pas
